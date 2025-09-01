@@ -25,7 +25,6 @@ We designed and implemented an **IoT-based smart agriculture system** that monit
 - `/ESP32-CAM` → Image classification with AI
 - `/NodeRED` → Node-RED flows
 - `/Schematics` → Circuit diagrams
-- `/Report` → Abstract & docs
 
 ## 👨‍💻 Authors
 - Aymane Berraadi  
